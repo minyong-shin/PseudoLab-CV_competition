@@ -4,7 +4,7 @@
 <span style="color:red">some **This is Red Bold.** text</span>
 
 ```diff
-- text in red
+1. 이미지 처리에 관련한 기초지식 습득 in red
 + text in green
 ! text in orange
 # text in gray
