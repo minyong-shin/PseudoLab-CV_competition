@@ -18,3 +18,5 @@
   - CV Competition 프로세스 스터디 in blue
   - CV Competition 제출 및 성능 개선 in orange
   ```
+
+These are <b style='color:red'>red words</b>.
