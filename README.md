@@ -20,7 +20,6 @@
     - 각 스터디원별로 매주 1회 공유
 
 ---
----
 ## [1차 대회] 위성 객체 인식
 - [정리](https://github.com/minyong-shin/PseudoLab-CV_competition/tree/master/%5B1%EC%B0%A8%20%EB%8C%80%ED%9A%8C%5D%20%EC%9C%84%EC%84%B1%20%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D)
 
