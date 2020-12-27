@@ -1,1 +1,28 @@
-# PseudoLab-CV_competition
+# [데이콘] 랜드마크 이미지 분류 대회
+- classification
+- 대회 성적: 56/82
+- 제출은 성공
+    - 성능이 낮다
+    - 캐글 베이스라인 벤치마킹
+- 저 포함 나머지 사람들은 제출 실패
+    - 컴퓨팅 성능
+- 정리자료
+    - 해당 
+- 주차별 세션 진행사항
+    - 1차 세션
+        - 대회 문제에 대한 파악 후 이미지 분류 모델 탐색
+            - efficientnet, resnet
+    - 2차 세션
+        - 캐글 노트북 벤치마크 및 필사
+            - training, inference 코드 모두 확인
+            - [https://www.kaggle.com/rhtsingh/pytorch-training-inference-efficientnet-baseline](https://www.kaggle.com/rhtsingh/pytorch-training-inference-efficientnet-baseline)
+    - 3차 세션
+        - 필사한 노트북 기반으로 추론 되는 것확인
+        - EfficientNet finetuning 작업
+        - finetuning 하는 부분에서 컴퓨팅 파워 문제 인식
+    - 4차 세션
+        - 컴퓨팅 파워에 문제가 없으신 스터디원 한분 추론 완료 및 제출
+            - 성능: 0.93
+        - 나머지 스터디원 이미지 저장에 문제 있는 분 한분 및 Finetuning에 문제가 있는 분 확인
+    - 5차 세션
+        - 제출 및 피드백
